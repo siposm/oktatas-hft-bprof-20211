@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VaB7HnqXhVpkKiPBNyCNUe5Pbo0HVYfO/oMq6A1H2DJDd7c9sFyMO/yxI1omqSroW2y6Kslej9CFpMa3dd3fag==",
+  "success": true,
+  "projectFilePath": "/home/sm/Documents/oktatas-hft-bprof-20211/JSON/JSON.csproj",
+  "expectedPackageFiles": [
+    "/home/sm/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
