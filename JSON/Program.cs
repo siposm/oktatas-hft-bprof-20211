@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
 using Newtonsoft.Json;
@@ -40,12 +41,18 @@ namespace JSON
         {
             return this.repository.GetFrom(param);
         }
+
+        public void SaveProfiles()
+        {
+            this.repository.SaveAll();
+        }
     }
 
     interface IRepo
     {
         List<Profile> GetAll();
         List<Profile> GetFrom(int param);
+        void SaveAll();
     }
 
     class ProfileRepository : IRepo
@@ -68,6 +75,15 @@ namespace JSON
                     where x.BirthYear > param
                     select x).ToList();
         }
+
+        public void SaveAll()
+        {
+            var q = from x in this.DB
+                    where x.BirthYear > 1992
+                    select x;
+
+            DataLoader.SaveJSON(q.ToList());
+        }
     }
 
     static class DataLoader
@@ -81,9 +97,10 @@ namespace JSON
             return JsonConvert.DeserializeObject<List<Profile>>(jsonContent);
         }
 
-        public static void SaveJSON()
+        public static void SaveJSON(List<Profile> plist)
         {
-
+            string json = JsonConvert.SerializeObject(plist);
+            File.WriteAllText("my_database_save.json" , json);
         }
     }
     
@@ -101,6 +118,8 @@ namespace JSON
             System.Console.WriteLine("\n====\n");
 
             l.ListProfilesFrom(1992).ForEach( x => System.Console.WriteLine(x));
+
+            l.SaveProfiles();
         }
     }
 }
