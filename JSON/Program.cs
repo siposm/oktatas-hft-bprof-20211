@@ -48,14 +48,14 @@ namespace JSON
         }
     }
 
-    interface IRepo
+    interface IRepo<T>
     {
-        List<Profile> GetAll();
-        List<Profile> GetFrom(int param);
+        List<T> GetAll();
+        List<T> GetFrom(int param);
         void SaveAll();
     }
 
-    class ProfileRepository : IRepo
+    class ProfileRepository : IRepo<Profile>
     {
         private List<Profile> DB { get; set; }
 
