@@ -23,21 +23,21 @@ namespace JSON
         }
     }
 
-    class Logic
+    class Logic<T>
     {
-        private IRepo repository { get; set; }
+        private IRepo<T> repository { get; set; }
 
-        public Logic(IRepo repo)
+        public Logic(IRepo<T> repo)
         {
             this.repository = repo;
         }
 
-        public List<Profile> ListProfiles()
+        public List<T> ListProfiles()
         {
             return this.repository.GetAll();
         }
 
-        public List<Profile> ListProfilesFrom(int param)
+        public List<T> ListProfilesFrom(int param)
         {
             return this.repository.GetFrom(param);
         }
@@ -111,7 +111,7 @@ namespace JSON
         {
             Console.WriteLine("== JSON APP ==");
 
-            Logic l = new Logic(new ProfileRepository());
+            Logic<Profile> l = new Logic<Profile>(new ProfileRepository());
 
             l.ListProfiles().ForEach( x => System.Console.WriteLine(x));
 
