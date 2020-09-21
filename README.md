@@ -54,3 +54,20 @@ Későbbi "frissítések letöltése":\
 
 - VS Code: https://code.visualstudio.com/insiders/
 - .Net Core: https://dotnet.microsoft.com/download/dotnet-core/3.1
+
+
+<br><br>
+
+---
+
+<br><br>
+
+Meglátás / észrevétel / probléma esetén megtalálható vagyok az alábbi elérhetőségen.
+
+**Sipos Miklós**\
+Tanszéki Mérnök\
+sipos.miklos@nik.uni-obuda.hu\
+https://users.nik.uni-obuda.hu/siposm \
+Óbudai Egyetem Neumann János Informatikai Kar\
+Szoftvertervezés és -fejlesztés Intézet\
+2020 - 2021 - 1 félév
