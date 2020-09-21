@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YJs74vbQg+Fd+FoDWRvmH5lBhs8EZgnLY0PpH9aGsX6bzKSUb7tjVtYlOxg/eW3SZKk0tju7GfnegT8zIqSA3g==",
+  "success": true,
+  "projectFilePath": "/home/sm/Desktop/consoleClientNancy/consoleClientNancy.csproj",
+  "expectedPackageFiles": [
+    "/home/sm/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/sm/Desktop/consoleClientNancy/bin/Debug/netcoreapp3.1/consoleClientNancy
+/home/sm/Desktop/consoleClientNancy/bin/Debug/netcoreapp3.1/consoleClientNancy.deps.json
+/home/sm/Desktop/consoleClientNancy/bin/Debug/netcoreapp3.1/consoleClientNancy.runtimeconfig.json
+/home/sm/Desktop/consoleClientNancy/bin/Debug/netcoreapp3.1/consoleClientNancy.runtimeconfig.dev.json
+/home/sm/Desktop/consoleClientNancy/bin/Debug/netcoreapp3.1/consoleClientNancy.dll
+/home/sm/Desktop/consoleClientNancy/bin/Debug/netcoreapp3.1/consoleClientNancy.pdb
+/home/sm/Desktop/consoleClientNancy/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/sm/Desktop/consoleClientNancy/obj/Debug/netcoreapp3.1/consoleClientNancy.csprojAssemblyReference.cache
+/home/sm/Desktop/consoleClientNancy/obj/Debug/netcoreapp3.1/consoleClientNancy.AssemblyInfoInputs.cache
+/home/sm/Desktop/consoleClientNancy/obj/Debug/netcoreapp3.1/consoleClientNancy.AssemblyInfo.cs
+/home/sm/Desktop/consoleClientNancy/obj/Debug/netcoreapp3.1/consoleClientNancy.csproj.CoreCompileInputs.cache
+/home/sm/Desktop/consoleClientNancy/obj/Debug/netcoreapp3.1/consoleClientNancy.csproj.CopyComplete
+/home/sm/Desktop/consoleClientNancy/obj/Debug/netcoreapp3.1/consoleClientNancy.dll
+/home/sm/Desktop/consoleClientNancy/obj/Debug/netcoreapp3.1/consoleClientNancy.pdb
+/home/sm/Desktop/consoleClientNancy/obj/Debug/netcoreapp3.1/consoleClientNancy.genruntimeconfig.cache

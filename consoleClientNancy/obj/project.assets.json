@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sm/Documents/oktatas-hft-bprof-20211/JSON/JSON.csproj",
-      "projectName": "JSON",
-      "projectPath": "/home/sm/Documents/oktatas-hft-bprof-20211/JSON/JSON.csproj",
+      "projectUniqueName": "/home/sm/Desktop/consoleClientNancy/consoleClientNancy.csproj",
+      "projectName": "consoleClientNancy",
+      "projectPath": "/home/sm/Desktop/consoleClientNancy/consoleClientNancy.csproj",
       "packagesPath": "/home/sm/.nuget/packages/",
-      "outputPath": "/home/sm/Documents/oktatas-hft-bprof-20211/JSON/obj/",
+      "outputPath": "/home/sm/Desktop/consoleClientNancy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sm/.nuget/NuGet/NuGet.Config"
