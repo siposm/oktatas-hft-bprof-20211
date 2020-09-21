@@ -1,3 +1,6 @@
+## Általános információk
+Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó Fejlesztési Technikák** tárgyhoz tartozó laboranyagok (csak a saját részeim).
+
 ## Mappaszerkezet magyarázó
 
 - 01-WEBAPI
@@ -9,10 +12,32 @@
     - `consoleClientNancy`
         - console kliens ami a Nancy-ben létrehozott API végpontot használja
 - 02-PARALLELPROG
-    - TODO
-    - TODO
-    - TODO
-    - TODO
+    - TODO LATER
+
+##  Repository használata
+Minden esetben javasolt jelen repository követése hétről-hétre, mivel az anyagok folyamatosan frissülnek, módosulnak ahogy halad előre a félév.
+
+### Letöltés
+Clone gomb mellett a letöltés nyílra katt, majd mentés a kiválaszott állományban. Ha csak egy dedikált mappára van szükséged, lépj bele itt a felületen és ugyan ezen gombra kattintva van lehetőség csak azt az 1 mappát letölteni.
+
+### Git
+Windows esetén: töltsd le, telepítsd, indítsd el: https://git-scm.com/downloads
+
+Linux / Mac esetén, CLI-ből:
+
+`sudo apt-get update`\
+`sudo apt-get install git`\
+ellenőrzés: `git --version`
+
+Utána (Mac / Win / Linux esetén egyaránt): 
+
+`cd ~/Desktop/`\
+`mkdir hft-laboranyag`\
+`cd hft-laboranyag`\
+`git clone https://gitlab.com/siposm/oktatas-hft-20211.git`
+
+Későbbi "frissítések letöltése":\
+`git pull` a gyökérmappából
 
 ## CLI parancsok
 
