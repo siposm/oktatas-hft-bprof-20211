@@ -106,6 +106,9 @@ namespace nancydemo
             dotnet add package Microsoft.AspNetCore.Server.Kestrel
 
             dotnet add package Newtonsoft.Json
+
+		https://www.nuget.org/packages/Nancy
+		dotnet add package Nancy --version 2.0.0
         */
         
         public static void Main(string[] args)
