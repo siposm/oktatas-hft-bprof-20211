@@ -113,11 +113,11 @@ namespace JSON
 
             Logic<Profile> l = new Logic<Profile>(new ProfileRepository());
 
-            l.ListProfiles().ForEach( x => System.Console.WriteLine(x));
+            l.ListProfiles().ForEach( x => Console.WriteLine(x));
 
-            System.Console.WriteLine("\n====\n");
+            Console.WriteLine("\n====\n");
 
-            l.ListProfilesFrom(1992).ForEach( x => System.Console.WriteLine(x));
+            l.ListProfilesFrom(1992).ForEach( x => Console.WriteLine(x));
 
             l.SaveProfiles();
         }
