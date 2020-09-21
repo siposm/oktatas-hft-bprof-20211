@@ -6687,11 +6687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sm/Desktop/nancydemo/nancydemo.csproj",
+      "projectUniqueName": "/home/sm/Documents/oktatas-hft-bprof-20211/01-WEBAPI/nancyWebApi/nancydemo.csproj",
       "projectName": "nancydemo",
-      "projectPath": "/home/sm/Desktop/nancydemo/nancydemo.csproj",
+      "projectPath": "/home/sm/Documents/oktatas-hft-bprof-20211/01-WEBAPI/nancyWebApi/nancydemo.csproj",
       "packagesPath": "/home/sm/.nuget/packages/",
-      "outputPath": "/home/sm/Desktop/nancydemo/obj/",
+      "outputPath": "/home/sm/Documents/oktatas-hft-bprof-20211/01-WEBAPI/nancyWebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sm/.nuget/NuGet/NuGet.Config"

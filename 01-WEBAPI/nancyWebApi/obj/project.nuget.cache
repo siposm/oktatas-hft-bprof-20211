@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BeIT9p0eIvOZiortVM3FoN75gZUQQehoV1hXjRET07h0aSeVsrb9o1ZQ0Y5ow5BHmjELehlw2ZWJs5uCeCp1vg==",
+  "dgSpecHash": "P4bwz9G5zITf1wEUSdc/MeR46ErBVTv3FAZ+yhldtQO9y4CuOy9HW2fa4+beV9L8LvmZTsRnhOPOehRWxM3O4A==",
   "success": true,
-  "projectFilePath": "/home/sm/Desktop/nancydemo/nancydemo.csproj",
+  "projectFilePath": "/home/sm/Documents/oktatas-hft-bprof-20211/01-WEBAPI/nancyWebApi/nancydemo.csproj",
   "expectedPackageFiles": [
     "/home/sm/.nuget/packages/microsoft.aspnetcore.connections.abstractions/2.2.0/microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",
     "/home/sm/.nuget/packages/microsoft.aspnetcore.hosting/2.2.0/microsoft.aspnetcore.hosting.2.2.0.nupkg.sha512",
