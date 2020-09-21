@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sm/Documents/oktatas-hft-bprof-20211/JSON/JSON.csproj": {}
+  },
+  "projects": {
+    "/home/sm/Documents/oktatas-hft-bprof-20211/JSON/JSON.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sm/Documents/oktatas-hft-bprof-20211/JSON/JSON.csproj",
+        "projectName": "JSON",
+        "projectPath": "/home/sm/Documents/oktatas-hft-bprof-20211/JSON/JSON.csproj",
+        "packagesPath": "/home/sm/.nuget/packages/",
+        "outputPath": "/home/sm/Documents/oktatas-hft-bprof-20211/JSON/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
