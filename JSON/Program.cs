@@ -61,7 +61,7 @@ namespace JSON
 
         public ProfileRepository()
         {
-            this.DB = DataLoader.LoadJSON();
+            this.DB = DataHandler.LoadJSON();
         }
 
         public List<Profile> GetAll()
@@ -82,11 +82,11 @@ namespace JSON
                     where x.BirthYear > 1992
                     select x;
 
-            DataLoader.SaveJSON(q.ToList());
+            DataHandler.SaveJSON(q.ToList());
         }
     }
 
-    static class DataLoader
+    static class DataHandler
     {
         public static List<Profile> LoadJSON()
         {
