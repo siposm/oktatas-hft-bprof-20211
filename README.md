@@ -18,10 +18,12 @@
 
 - 01-WEBAPI
     - `dotnet new web`
+    - `dotnet new console`
     - `dotnet add package Nancy --version 2.0.0`
     - `dotnet add package Microsoft.AspNetCore.Owin`
     - `dotnet add package Microsoft.AspNetCore.Server.Kestrel`
     - `dotnet add package Newtonsoft.Json`
+    - `dotnet restore`
 
 ## Letöltések
 
