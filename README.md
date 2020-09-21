@@ -7,7 +7,7 @@ Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó F
     - `jsonHandler`
         - végpontról való letöltés (WebClient)
         - JSON állományok kezelése (Newtonsoft JSON.NET serlialize / deserialize)
-    - `nancydemo` 
+    - `nancyWebApi` 
         - saját API-k létrehozása Nancy segítségével
     - `consoleClientNancy`
         - console kliens ami a Nancy-ben létrehozott API végpontot használja
