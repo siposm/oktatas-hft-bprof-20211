@@ -25,5 +25,5 @@
 
 ## Letöltések
 
-VS Code: https://code.visualstudio.com/insiders/
-.Net Core: https://dotnet.microsoft.com/download/dotnet-core/3.1
+- VS Code: https://code.visualstudio.com/insiders/
+- .Net Core: https://dotnet.microsoft.com/download/dotnet-core/3.1
