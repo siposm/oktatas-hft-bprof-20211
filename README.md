@@ -1,5 +1,5 @@
 ## Általános információk
-Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó Fejlesztési Technikák** tárgyhoz tartozó laboranyagok (csak a saját részeim).
+Az ÓE NIK Üzemmérnök-informatikus (BPROF) képzésen található **Haladó Fejlesztési Technikák** tárgyhoz tartozó laboranyagok (csak a saját részeim).
 
 <br><br>
 
