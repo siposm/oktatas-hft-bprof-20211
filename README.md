@@ -74,10 +74,8 @@ Későbbi "frissítések letöltése":\
 - `dotnet restore`
 
 ## Hasznos linkek
-- A tárgyhoz tartozó oktatói aloldalam:
-    - https://users.nik.uni-obuda.hu/siposm/hft-bprof
-- YouTube csatorna, ahol a gyakorlati videók publikálásra kerülnek:
-    - https://www.youtube.com/siposm
+- A tárgyhoz tartozó oktatói aloldalam: https://users.nik.uni-obuda.hu/siposm/hft-bprof
+- YouTube csatorna, ahol a gyakorlati videók publikálásra kerülnek: https://www.youtube.com/siposm
 
 ## Letöltések
 - VS Code: https://code.visualstudio.com/insiders/
