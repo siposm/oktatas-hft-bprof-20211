@@ -2,7 +2,6 @@
 Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó Fejlesztési Technikák** tárgyhoz tartozó laboranyagok (csak a saját részeim).
 
 ## Mappaszerkezet magyarázó
-
 - 01-WEBAPI
     - `jsonHandler`
         - végpontról való letöltés (WebClient)
@@ -11,8 +10,34 @@ Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó F
         - saját API-k létrehozása Nancy segítségével
     - `consoleClientNancy`
         - console kliens ami a Nancy-ben létrehozott API végpontot használja
-- 02-PARALLELPROG
-    - TODO LATER
+- 02-PROCESS
+    - `README.md`
+        - link egy mérnökinfós régi repóra, ahol különböző mintapéldák vannak
+- 03-THREAD
+    - `01-basics`
+        - alapvető thread szintaktika és műveletek bemutatása
+    - `02-textdata-processing`
+        - txt szöveges állomány feldolgozása párhuzamosan
+        - szinkronizációs pont használata
+    - `03-webstat`
+        - weboldal letöltés sebességének mérése thread segítségével
+        - szinkronizációs pont használata
+    - `04-lock`
+        - lock-olás bemutatása egy rövid mintakódon keresztül
+    - `05-interlocked`
+        - interlock-olás bemutatása egy rövid mintakódon keresztül
+- 04-TASK
+     - `01-basics`
+        - alapvető task szintaktika és műveletek bemutatása
+    - `02-rss-reader`
+        - rss állományok letöltése és feldolgozása task segítségével
+        - process felhasználásával firefox indítása az RSS-ben található link megnyitására
+        - cancellation alkalmazása token segítségével
+    - `03-cancellation-demo`
+        - task cancellation rövid példakód
+- 05-ASYNC-AWAIT
+    - `root`
+        - async-await működést szemléltető példakód
 
 ##  Repository használata
 Minden esetben javasolt jelen repository követése hétről-hétre, mivel az anyagok folyamatosan frissülnek, módosulnak ahogy halad előre a félév.
@@ -40,18 +65,21 @@ Későbbi "frissítések letöltése":\
 `git pull` a gyökérmappából
 
 ## CLI parancsok
+- `dotnet new web`
+- `dotnet new console`
+- `dotnet add package Nancy --version 2.0.0`
+- `dotnet add package Microsoft.AspNetCore.Owin`
+- `dotnet add package Microsoft.AspNetCore.Server.Kestrel`
+- `dotnet add package Newtonsoft.Json`
+- `dotnet restore`
 
-- 01-WEBAPI
-    - `dotnet new web`
-    - `dotnet new console`
-    - `dotnet add package Nancy --version 2.0.0`
-    - `dotnet add package Microsoft.AspNetCore.Owin`
-    - `dotnet add package Microsoft.AspNetCore.Server.Kestrel`
-    - `dotnet add package Newtonsoft.Json`
-    - `dotnet restore`
+## Hasznos linkek
+- A tárgyhoz tartozó oktatói aloldalam:
+    - https://users.nik.uni-obuda.hu/siposm/hft-bprof
+- YouTube csatorna, ahol a gyakorlati videók publikálásra kerülnek:
+    - https://www.youtube.com/siposm
 
 ## Letöltések
-
 - VS Code: https://code.visualstudio.com/insiders/
 - .Net Core: https://dotnet.microsoft.com/download/dotnet-core/3.1
 
