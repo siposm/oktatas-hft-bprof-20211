@@ -1,0 +1,13 @@
+/home/sm/Desktop/parallel/07asyncawait/bin/Debug/netcoreapp3.1/07asyncawait
+/home/sm/Desktop/parallel/07asyncawait/bin/Debug/netcoreapp3.1/07asyncawait.deps.json
+/home/sm/Desktop/parallel/07asyncawait/bin/Debug/netcoreapp3.1/07asyncawait.runtimeconfig.json
+/home/sm/Desktop/parallel/07asyncawait/bin/Debug/netcoreapp3.1/07asyncawait.runtimeconfig.dev.json
+/home/sm/Desktop/parallel/07asyncawait/bin/Debug/netcoreapp3.1/07asyncawait.dll
+/home/sm/Desktop/parallel/07asyncawait/bin/Debug/netcoreapp3.1/07asyncawait.pdb
+/home/sm/Desktop/parallel/07asyncawait/obj/Debug/netcoreapp3.1/07asyncawait.csprojAssemblyReference.cache
+/home/sm/Desktop/parallel/07asyncawait/obj/Debug/netcoreapp3.1/07asyncawait.AssemblyInfoInputs.cache
+/home/sm/Desktop/parallel/07asyncawait/obj/Debug/netcoreapp3.1/07asyncawait.AssemblyInfo.cs
+/home/sm/Desktop/parallel/07asyncawait/obj/Debug/netcoreapp3.1/07asyncawait.csproj.CoreCompileInputs.cache
+/home/sm/Desktop/parallel/07asyncawait/obj/Debug/netcoreapp3.1/07asyncawait.dll
+/home/sm/Desktop/parallel/07asyncawait/obj/Debug/netcoreapp3.1/07asyncawait.pdb
+/home/sm/Desktop/parallel/07asyncawait/obj/Debug/netcoreapp3.1/07asyncawait.genruntimeconfig.cache
