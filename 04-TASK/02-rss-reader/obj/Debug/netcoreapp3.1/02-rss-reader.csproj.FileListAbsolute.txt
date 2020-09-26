@@ -1,0 +1,13 @@
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/bin/Debug/netcoreapp3.1/02-rss-reader
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/bin/Debug/netcoreapp3.1/02-rss-reader.deps.json
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/bin/Debug/netcoreapp3.1/02-rss-reader.runtimeconfig.json
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/bin/Debug/netcoreapp3.1/02-rss-reader.runtimeconfig.dev.json
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/bin/Debug/netcoreapp3.1/02-rss-reader.dll
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/bin/Debug/netcoreapp3.1/02-rss-reader.pdb
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/obj/Debug/netcoreapp3.1/02-rss-reader.csprojAssemblyReference.cache
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/obj/Debug/netcoreapp3.1/02-rss-reader.AssemblyInfoInputs.cache
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/obj/Debug/netcoreapp3.1/02-rss-reader.AssemblyInfo.cs
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/obj/Debug/netcoreapp3.1/02-rss-reader.csproj.CoreCompileInputs.cache
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/obj/Debug/netcoreapp3.1/02-rss-reader.dll
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/obj/Debug/netcoreapp3.1/02-rss-reader.pdb
+/home/sm/dev/oktatas-hft-20211/LA-08-task/02-rss-reader/obj/Debug/netcoreapp3.1/02-rss-reader.genruntimeconfig.cache

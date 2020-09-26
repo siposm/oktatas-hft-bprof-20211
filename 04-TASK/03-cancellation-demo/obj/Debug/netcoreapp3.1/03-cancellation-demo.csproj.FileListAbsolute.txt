@@ -1,0 +1,13 @@
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/bin/Debug/netcoreapp3.1/03-cancellation-demo
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/bin/Debug/netcoreapp3.1/03-cancellation-demo.deps.json
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/bin/Debug/netcoreapp3.1/03-cancellation-demo.runtimeconfig.json
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/bin/Debug/netcoreapp3.1/03-cancellation-demo.runtimeconfig.dev.json
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/bin/Debug/netcoreapp3.1/03-cancellation-demo.dll
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/bin/Debug/netcoreapp3.1/03-cancellation-demo.pdb
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/obj/Debug/netcoreapp3.1/03-cancellation-demo.csprojAssemblyReference.cache
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/obj/Debug/netcoreapp3.1/03-cancellation-demo.AssemblyInfoInputs.cache
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/obj/Debug/netcoreapp3.1/03-cancellation-demo.AssemblyInfo.cs
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/obj/Debug/netcoreapp3.1/03-cancellation-demo.csproj.CoreCompileInputs.cache
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/obj/Debug/netcoreapp3.1/03-cancellation-demo.dll
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/obj/Debug/netcoreapp3.1/03-cancellation-demo.pdb
+/home/sm/dev/oktatas-hft-20211/LA-08-task/03-cancellation-demo/obj/Debug/netcoreapp3.1/03-cancellation-demo.genruntimeconfig.cache
