@@ -2,7 +2,7 @@
 Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó Fejlesztési Technikák** tárgyhoz tartozó laboranyagok (csak a saját részeim).
 
 ## Mappaszerkezet magyarázó
-- 01-WEBAPI
+- **01-WEBAPI**
     - `jsonHandler`
         - végpontról való letöltés (WebClient)
         - JSON állományok kezelése (Newtonsoft JSON.NET serlialize / deserialize)
@@ -10,10 +10,10 @@ Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó F
         - saját API-k létrehozása Nancy segítségével
     - `consoleClientNancy`
         - console kliens ami a Nancy-ben létrehozott API végpontot használja
-- 02-PROCESS
+- **02-PROCESS**
     - `README.md`
         - link egy mérnökinfós régi repóra, ahol különböző mintapéldák vannak
-- 03-THREAD
+- **03-THREAD**
     - `01-basics`
         - alapvető thread szintaktika és műveletek bemutatása
     - `02-textdata-processing`
@@ -26,7 +26,7 @@ Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó F
         - lock-olás bemutatása egy rövid mintakódon keresztül
     - `05-interlocked`
         - interlock-olás bemutatása egy rövid mintakódon keresztül
-- 04-TASK
+- **04-TASK**
      - `01-basics`
         - alapvető task szintaktika és műveletek bemutatása
     - `02-rss-reader`
@@ -35,7 +35,7 @@ Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó F
         - cancellation alkalmazása token segítségével
     - `03-cancellation-demo`
         - task cancellation rövid példakód
-- 05-ASYNC-AWAIT
+- **05-ASYNC-AWAIT**
     - `root`
         - async-await működést szemléltető példakód
 
