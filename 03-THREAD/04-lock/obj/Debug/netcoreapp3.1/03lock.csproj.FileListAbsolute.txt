@@ -1,0 +1,13 @@
+/home/sm/Desktop/parallel/03lock/bin/Debug/netcoreapp3.1/03lock
+/home/sm/Desktop/parallel/03lock/bin/Debug/netcoreapp3.1/03lock.deps.json
+/home/sm/Desktop/parallel/03lock/bin/Debug/netcoreapp3.1/03lock.runtimeconfig.json
+/home/sm/Desktop/parallel/03lock/bin/Debug/netcoreapp3.1/03lock.runtimeconfig.dev.json
+/home/sm/Desktop/parallel/03lock/bin/Debug/netcoreapp3.1/03lock.dll
+/home/sm/Desktop/parallel/03lock/bin/Debug/netcoreapp3.1/03lock.pdb
+/home/sm/Desktop/parallel/03lock/obj/Debug/netcoreapp3.1/03lock.csprojAssemblyReference.cache
+/home/sm/Desktop/parallel/03lock/obj/Debug/netcoreapp3.1/03lock.AssemblyInfoInputs.cache
+/home/sm/Desktop/parallel/03lock/obj/Debug/netcoreapp3.1/03lock.AssemblyInfo.cs
+/home/sm/Desktop/parallel/03lock/obj/Debug/netcoreapp3.1/03lock.csproj.CoreCompileInputs.cache
+/home/sm/Desktop/parallel/03lock/obj/Debug/netcoreapp3.1/03lock.dll
+/home/sm/Desktop/parallel/03lock/obj/Debug/netcoreapp3.1/03lock.pdb
+/home/sm/Desktop/parallel/03lock/obj/Debug/netcoreapp3.1/03lock.genruntimeconfig.cache

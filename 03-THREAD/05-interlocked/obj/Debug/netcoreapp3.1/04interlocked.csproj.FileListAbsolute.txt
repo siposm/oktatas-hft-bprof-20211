@@ -1,0 +1,13 @@
+/home/sm/Desktop/parallel/04interlocked/bin/Debug/netcoreapp3.1/04interlocked
+/home/sm/Desktop/parallel/04interlocked/bin/Debug/netcoreapp3.1/04interlocked.deps.json
+/home/sm/Desktop/parallel/04interlocked/bin/Debug/netcoreapp3.1/04interlocked.runtimeconfig.json
+/home/sm/Desktop/parallel/04interlocked/bin/Debug/netcoreapp3.1/04interlocked.runtimeconfig.dev.json
+/home/sm/Desktop/parallel/04interlocked/bin/Debug/netcoreapp3.1/04interlocked.dll
+/home/sm/Desktop/parallel/04interlocked/bin/Debug/netcoreapp3.1/04interlocked.pdb
+/home/sm/Desktop/parallel/04interlocked/obj/Debug/netcoreapp3.1/04interlocked.csprojAssemblyReference.cache
+/home/sm/Desktop/parallel/04interlocked/obj/Debug/netcoreapp3.1/04interlocked.AssemblyInfoInputs.cache
+/home/sm/Desktop/parallel/04interlocked/obj/Debug/netcoreapp3.1/04interlocked.AssemblyInfo.cs
+/home/sm/Desktop/parallel/04interlocked/obj/Debug/netcoreapp3.1/04interlocked.csproj.CoreCompileInputs.cache
+/home/sm/Desktop/parallel/04interlocked/obj/Debug/netcoreapp3.1/04interlocked.dll
+/home/sm/Desktop/parallel/04interlocked/obj/Debug/netcoreapp3.1/04interlocked.pdb
+/home/sm/Desktop/parallel/04interlocked/obj/Debug/netcoreapp3.1/04interlocked.genruntimeconfig.cache
