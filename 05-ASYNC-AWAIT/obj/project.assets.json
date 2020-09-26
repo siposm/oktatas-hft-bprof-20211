@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sm/Desktop/parallel/07asyncawait/07asyncawait.csproj",
+      "projectUniqueName": "/home/sm/dev/oktatas-hft-bprof-20211/05-ASYNC-AWAIT/07asyncawait.csproj",
       "projectName": "07asyncawait",
-      "projectPath": "/home/sm/Desktop/parallel/07asyncawait/07asyncawait.csproj",
+      "projectPath": "/home/sm/dev/oktatas-hft-bprof-20211/05-ASYNC-AWAIT/07asyncawait.csproj",
       "packagesPath": "/home/sm/.nuget/packages/",
-      "outputPath": "/home/sm/Desktop/parallel/07asyncawait/obj/",
+      "outputPath": "/home/sm/dev/oktatas-hft-bprof-20211/05-ASYNC-AWAIT/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sm/.nuget/NuGet/NuGet.Config"
