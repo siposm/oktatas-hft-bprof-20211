@@ -1,6 +1,8 @@
 ## Általános információk
 Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó Fejlesztési Technikák** tárgyhoz tartozó laboranyagok (csak a saját részeim).
 
+<br><br>
+
 ## Mappaszerkezet magyarázó
 - **01-WEBAPI**
     - `jsonHandler`
@@ -39,6 +41,8 @@ Az ÓE NIK Üzemménrök-informatikus (BPROF) képzésen található **Haladó F
     - `root`
         - async-await működést szemléltető példakód
 
+<br><br>
+
 ##  Repository használata
 Minden esetben javasolt jelen repository követése hétről-hétre, mivel az anyagok folyamatosan frissülnek, módosulnak ahogy halad előre a félév.
 
@@ -64,6 +68,8 @@ Utána (Mac / Win / Linux esetén egyaránt):
 Későbbi "frissítések letöltése":\
 `git pull` a gyökérmappából
 
+<br><br>
+
 ## CLI parancsok
 - `dotnet new web`
 - `dotnet new console`
@@ -73,9 +79,13 @@ Későbbi "frissítések letöltése":\
 - `dotnet add package Newtonsoft.Json`
 - `dotnet restore`
 
+<br><br>
+
 ## Hasznos linkek
 - A tárgyhoz tartozó oktatói aloldalam: https://users.nik.uni-obuda.hu/siposm/hft-bprof
 - YouTube csatorna, ahol a gyakorlati videók publikálásra kerülnek: https://www.youtube.com/siposm
+
+<br><br>
 
 ## Letöltések
 - VS Code: https://code.visualstudio.com/insiders/
