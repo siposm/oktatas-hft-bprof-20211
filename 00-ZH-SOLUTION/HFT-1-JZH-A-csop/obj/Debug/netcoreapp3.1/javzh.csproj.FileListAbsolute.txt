@@ -1,0 +1,13 @@
+/home/sm/Desktop/javzh/bin/Debug/netcoreapp3.1/javzh
+/home/sm/Desktop/javzh/bin/Debug/netcoreapp3.1/javzh.deps.json
+/home/sm/Desktop/javzh/bin/Debug/netcoreapp3.1/javzh.runtimeconfig.json
+/home/sm/Desktop/javzh/bin/Debug/netcoreapp3.1/javzh.runtimeconfig.dev.json
+/home/sm/Desktop/javzh/bin/Debug/netcoreapp3.1/javzh.dll
+/home/sm/Desktop/javzh/bin/Debug/netcoreapp3.1/javzh.pdb
+/home/sm/Desktop/javzh/obj/Debug/netcoreapp3.1/javzh.csprojAssemblyReference.cache
+/home/sm/Desktop/javzh/obj/Debug/netcoreapp3.1/javzh.AssemblyInfoInputs.cache
+/home/sm/Desktop/javzh/obj/Debug/netcoreapp3.1/javzh.AssemblyInfo.cs
+/home/sm/Desktop/javzh/obj/Debug/netcoreapp3.1/javzh.csproj.CoreCompileInputs.cache
+/home/sm/Desktop/javzh/obj/Debug/netcoreapp3.1/javzh.dll
+/home/sm/Desktop/javzh/obj/Debug/netcoreapp3.1/javzh.pdb
+/home/sm/Desktop/javzh/obj/Debug/netcoreapp3.1/javzh.genruntimeconfig.cache

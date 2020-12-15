@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFJhrfou0G04uOubBuyEzpU7L6XmtJvGRa++7C8ohEkfvg+/Hj27ZuppXXdmMMv3RRK9KGC3HX+PzFDcirYNHQ==",
+  "success": true,
+  "projectFilePath": "/home/sm/Desktop/hft2jzh_parallel/hft2jzh_parallel.csproj",
+  "expectedPackageFiles": [
+    "/home/sm/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

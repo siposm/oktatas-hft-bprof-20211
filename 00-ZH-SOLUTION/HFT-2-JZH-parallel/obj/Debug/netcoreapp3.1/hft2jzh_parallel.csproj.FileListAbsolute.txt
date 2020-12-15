@@ -1,0 +1,15 @@
+/home/sm/Desktop/hft2jzh_parallel/bin/Debug/netcoreapp3.1/hft2jzh_parallel
+/home/sm/Desktop/hft2jzh_parallel/bin/Debug/netcoreapp3.1/hft2jzh_parallel.deps.json
+/home/sm/Desktop/hft2jzh_parallel/bin/Debug/netcoreapp3.1/hft2jzh_parallel.runtimeconfig.json
+/home/sm/Desktop/hft2jzh_parallel/bin/Debug/netcoreapp3.1/hft2jzh_parallel.runtimeconfig.dev.json
+/home/sm/Desktop/hft2jzh_parallel/bin/Debug/netcoreapp3.1/hft2jzh_parallel.dll
+/home/sm/Desktop/hft2jzh_parallel/bin/Debug/netcoreapp3.1/hft2jzh_parallel.pdb
+/home/sm/Desktop/hft2jzh_parallel/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/sm/Desktop/hft2jzh_parallel/obj/Debug/netcoreapp3.1/hft2jzh_parallel.csprojAssemblyReference.cache
+/home/sm/Desktop/hft2jzh_parallel/obj/Debug/netcoreapp3.1/hft2jzh_parallel.AssemblyInfoInputs.cache
+/home/sm/Desktop/hft2jzh_parallel/obj/Debug/netcoreapp3.1/hft2jzh_parallel.AssemblyInfo.cs
+/home/sm/Desktop/hft2jzh_parallel/obj/Debug/netcoreapp3.1/hft2jzh_parallel.csproj.CoreCompileInputs.cache
+/home/sm/Desktop/hft2jzh_parallel/obj/Debug/netcoreapp3.1/hft2jzh_parallel.csproj.CopyComplete
+/home/sm/Desktop/hft2jzh_parallel/obj/Debug/netcoreapp3.1/hft2jzh_parallel.dll
+/home/sm/Desktop/hft2jzh_parallel/obj/Debug/netcoreapp3.1/hft2jzh_parallel.pdb
+/home/sm/Desktop/hft2jzh_parallel/obj/Debug/netcoreapp3.1/hft2jzh_parallel.genruntimeconfig.cache
